@@ -1,3 +1,1 @@
-int i = 10;
-
-This is second line data
+int i = 10 ;
