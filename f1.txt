@@ -1,5 +1,0 @@
-
-String name = "hello"
-
-int i = 10 ;
-
