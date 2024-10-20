@@ -1,1 +1,1 @@
-Sting name = "hello"
+String name = "hello"
